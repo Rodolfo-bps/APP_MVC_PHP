@@ -1,5 +1,5 @@
 <?php 
-const SERVERURL = "http://localhost/APP_MVC_PHP-main/";
+const SERVERURL = "http://localhost/APP_MVC_PHP/";
 
 const COMPANY = "SISTEMAS PRESTAMOS";
 

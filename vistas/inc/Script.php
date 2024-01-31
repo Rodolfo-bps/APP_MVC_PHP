@@ -19,3 +19,4 @@
 </script>
 
 <script src="<?= SERVERURL ?>vistas/js/main.js"></script>
+<script src="<?= SERVERURL ?>vistas/js/alertas.js"></script>
